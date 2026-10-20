@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-label="Until the next chapter">
+<defs><linearGradient id="f" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#2a4750"/><stop offset="1" stop-color="#142730"/></linearGradient><radialGradient id="m"><stop stop-color="#e6d7a9" stop-opacity=".5"/><stop offset="1" stop-color="#e6d7a9" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="140" fill="url(#f)" rx="7"/>
+<circle cx="1052" cy="61" r="80" fill="url(#m)"/><circle cx="1052" cy="61" r="31" fill="#efe7cc" opacity=".35"/>
+<path d="M0 112 L142 62 224 111 328 73 455 118 588 75 703 121 848 76 990 113 1086 79 1200 112 V140 H0Z" fill="#37585b" opacity=".72"/>
+<path d="M0 126 Q174 88 351 123 T700 119 T1200 112 V140 H0Z" fill="#1c363d"/>
+<g fill="#e3d6a9"><circle cx="88" cy="23" r="1.4"/><circle cx="239" cy="40" r="1.8"/><circle cx="784" cy="28" r="1.2"/><circle cx="933" cy="45" r="1.5"/><circle cx="1130" cy="18" r="1.5"/></g>
+<rect x="12" y="11" width="1176" height="118" rx="3" fill="none" stroke="#cabb90" stroke-width=".9" opacity=".38"/>
+<text x="74" y="62" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-style="italic" fill="#f3eddc">the journey continues...</text>
+<text x="76" y="91" font-family="Georgia, 'Times New Roman', serif" font-size="15" letter-spacing="2.1" fill="#d7cfb0">ONE LINE OF CODE AT A TIME</text>
+</svg>
